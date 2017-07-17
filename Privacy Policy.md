@@ -1,7 +1,7 @@
 # Pixel-Effect-Collage-Maker
 All in One Photo Editor 
 
-Privacy Policy of Pixel-Effect-Collage-Maker
+<b>Privacy Policy of Pixel-Effect-Collage-Maker</b>
 
 We have use camera permission(android.permission.CAMERA) to take a photo for that you can edit with app feature.
 
